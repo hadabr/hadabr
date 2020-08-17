@@ -10,7 +10,7 @@ Or just check a profile infographics from the [navigation] repo.
 ![](https://img.shields.io/badge/Lib-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/PF-NodeJS-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/PF-Electron-informational?style=flat&logo=Electron&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Server-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Server-ExpressJS-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
