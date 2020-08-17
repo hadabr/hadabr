@@ -1,4 +1,4 @@
-Hi, I'm Alex and I love simply things.  
+#### Hi, I'm Alex and I love simply things.  
 I'm a frontend / full-stack developer, and also involved in UI/UX design.  
 
 We could meet on [Linkedin], [Instagram] or [Behance].  
@@ -12,13 +12,12 @@ Or just check the profile infographics from the [navigation] repo.
 ![](https://img.shields.io/badge/PF-Electron-informational?style=flat&logo=Electron&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Server-ExpressJS-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)  
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/FW-React_Native-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)     
+![](https://img.shields.io/badge/FW-React_Native-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/FW-AngularJS-informational?style=flat&logo=Angular&logoColor=white&color=2bbc8a)     
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/FW-AngularJS-informational?style=flat&logo=Angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Mongodb-informational?style=flat&logo=Mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/API-REST-informational?style=flat&logo=REST&logoColor=white&color=2bbc8a)  
 ![](https://img.shields.io/badge/API-GraphQl-informational?style=flat&logo=GraphQl&logoColor=white&color=2bbc8a)
@@ -32,9 +31,9 @@ Or just check the profile infographics from the [navigation] repo.
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe_Photoshop&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=2bbc8a)  
 
-[<img width="200px" src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png"/>](brandband.io)   
-
-
+<p align="center">
+  [<img width="150px" src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png"/>](brandband.io)   
+</p>
 
 
    [linkedin]: <http://angularjs.org>
