@@ -1,7 +1,7 @@
-Hi, I'm Alex and I love simply things.  
-I'm a frontend/full-stack developer, and also involved in UI/UX design.  
+#### Hi, I'm Alex and I love simply things.  
 
-Portolio build/releases repo: [navigation](https://img.shields.io/badge/Tools-XD-informational?style=flat&logo=Adobe_XD&logoColor=white&color=5CA1B2).  
+Frontend/Full-stack developer, and also involved in UI/UX design.  
+Portolio build/releases repo: [[navigation]](https://img.shields.io/badge/Tools-XD-informational?style=flat&logo=Adobe_XD&logoColor=white&color=5CA1B2).  
 &nbsp;  
 We could meet on [Linkedin], [Instagram] or [Behance].   
 ## Technologies & Tools  
@@ -32,6 +32,7 @@ We could meet on [Linkedin], [Instagram] or [Behance].
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe_Illustrator&logoColor=white&color=5CA1B2)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe_Photoshop&logoColor=white&color=5CA1B2)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=5CA1B2)
+&nbsp;  
 &nbsp;  
 Or just check my website, in 2020 I still have one:  
 [![brandband](https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png "brandband")](https://brandband.io/)  
