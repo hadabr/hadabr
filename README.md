@@ -30,9 +30,10 @@ Or just check the profile infographics from the [navigation] repo.
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe_Illustrator&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe_Photoshop&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=2bbc8a)   
-&nbsp;
-&nbsp;
-[<img width="100px" src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png"/>](brandband.io)   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+[<img width="140px" src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png"/>](brandband.io)   
 
 
 
