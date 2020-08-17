@@ -2,13 +2,11 @@ Hi, I'm Alex and I love simply things.
 I'm a frontend/full-stack developer, and also involved in UI/UX design.  
 
 We could meet on [Linkedin], [Instagram] or [Behance].  
-The portolio build/releases repo: [**navigation**] .  
+The portolio build/releases [**repo**](https://img.shields.io/badge/Tools-XD-informational?style=flat&logo=Adobe_XD&logoColor=white&color=5CA1B2)|navigation.  
 Or just check my website, in 2020 I still have one ;)  
 &nbsp;  
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png"/>   
-&nbsp;  
-### Technologies & Tools  
-&nbsp;  
+## Technologies & Toolset  
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>
 
 ![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react&logoColor=white&color=5CA1B2)
