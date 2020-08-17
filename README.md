@@ -1,8 +1,6 @@
 Hi! I'm Alex and I love simply things.
+I'm a frontend / fullstack developer
 
-Here is 
-
-# A collapsible section containing markdown
 <details>
   <summary>Click to expand!</summary>
   
