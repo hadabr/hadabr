@@ -1,3 +1,5 @@
+<img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png"/>  
+&nbsp;  
 Hi, I'm [Alex](https://brandband.io) and I love simply things.  
 I'm a frontend / full-stack developer, and also involved in UI/UX design.  
 
@@ -31,12 +33,6 @@ Or just check the profile infographics from the [navigation] repo.
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe_Illustrator&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe_Photoshop&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=2bbc8a)   
-&nbsp;  
-&nbsp;  
-
-<p style="text-align: right"> <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png"/> </p>   
-
-
 
 
    [linkedin]: <http://angularjs.org>
