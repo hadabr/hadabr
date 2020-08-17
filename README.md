@@ -2,7 +2,11 @@ Hi, I'm Alex and I love simply things.
 I'm a frontend / full-stack developer, and also involved in UI/UX design.  
 
 We could meet on [Linkedin], [Instagram] or [Behance].  
+<<<<<<< HEAD
 Or just check the portolio infographics in the [navigation] repo.  
+=======
+Or just check the profile build/releases entry point in [**navigation**] repo.  
+>>>>>>> e1075fe56354163f68e11a56ab6e8854f307f101
 &nbsp;   
  
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>
@@ -19,8 +23,8 @@ Or just check the portolio infographics in the [navigation] repo.
 ![](https://img.shields.io/badge/Lib-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=5CA1B2)
 ![](https://img.shields.io/badge/Lib-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=5CA1B2)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=5CA1B2) 
-![](https://img.shields.io/badge/DB-Mongodb-informational?style=flat&logo=Mongodb&logoColor=white&color=5CA1B2)
-![](https://img.shields.io/badge/API-REST-informational?style=flat&logo=REST&logoColor=white&color=5CA1B2)  
+![](https://img.shields.io/badge/DB-Mongodb-informational?style=flat&logo=Mongodb&logoColor=white&color=5CA1B2)  
+![](https://img.shields.io/badge/API-REST-informational?style=flat&logo=REST&logoColor=white&color=5CA1B2)
 ![](https://img.shields.io/badge/API-GraphQl-informational?style=flat&logo=GraphQl&logoColor=white&color=5CA1B2)
 ![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=5CA1B2)    
 
@@ -38,5 +42,5 @@ Or just check the portolio infographics in the [navigation] repo.
    [linkedin]: <http://angularjs.org>
    [instagram]: <https://www.instagram.com/pockethabr>
    [behance]: <https://www.behance.net/alexdovghi6c9c>
-   [navigation]: <https://github.com/hadabr/navigation>
+   [**navigation**]: <https://github.com/hadabr/navigation>
    [linkedin-logo]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
