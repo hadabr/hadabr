@@ -4,7 +4,7 @@ Hi, I'm Alex and I love simply things.
 I'm a frontend / full-stack developer, and also involved in UI/UX design.  
 
 We could meet on [Linkedin], [Instagram] or [Behance].  
-Or just check the profile infographics from the [NAVIGATION] repo.  
+Or just check the profile infographics from the [**navigation**] repo.  
 &nbsp;   
  
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>
@@ -38,5 +38,5 @@ Or just check the profile infographics from the [NAVIGATION] repo.
    [linkedin]: <http://angularjs.org>
    [instagram]: <https://www.instagram.com/pockethabr>
    [behance]: <https://www.behance.net/alexdovghi6c9c>
-   [NAVIGATION]: <https://github.com/hadabr/navigation>
+   [**navigation**]: <https://github.com/hadabr/navigation>
    [linkedin-logo]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
