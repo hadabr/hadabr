@@ -21,10 +21,14 @@ Or just check a profile infographics from the [navigation] repo.
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Mongodb-informational?style=flat&logo=Mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/API-GraphQl-informational?style=flat&logo=GraphQl&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/API-REST-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/API-REST-informational?style=flat&logo=REST&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=2bbc8a)  
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui-design.png"/>    
-Adobe Photoshop | Adobe XD | Figma    
+![](https://img.shields.io/badge/Tools-XD-informational?style=flat&logo=XD&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Figma&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Photoshop&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=2bbc8a)
+
 
 [<img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png"/>](brandband.io)   
 
