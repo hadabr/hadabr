@@ -1,4 +1,4 @@
-#### Hi, I'm Alex and I love simply things.  
+Hi, I'm Alex and I love simply things.  
 I'm a frontend / full-stack developer, and also involved in UI/UX design.  
 
 We could meet on [Linkedin], [Instagram] or [Behance].  
@@ -29,11 +29,12 @@ Or just check the profile infographics from the [navigation] repo.
 ![](https://img.shields.io/badge/Tools-XD-informational?style=flat&logo=Adobe_XD&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe_Illustrator&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe_Photoshop&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=2bbc8a)  
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=2bbc8a)   
+&nbsp;
+&nbsp;
+[<img width="100px" src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png"/>](brandband.io)   
 
-<p align="center">
-  [<img width="150px" src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png"/>](brandband.io)   
-</p>
+
 
 
    [linkedin]: <http://angularjs.org>
