@@ -1,6 +1,6 @@
 Hi, I'm Alex and I love simply things.  
-I'm a frontend/full-stack developer, and also involved in UI/UX design.  
 
+I'm a frontend/full-stack developer, and also involved in UI/UX design.  
 Portolio build/releases repo: [navigation](https://img.shields.io/badge/Tools-XD-informational?style=flat&logo=Adobe_XD&logoColor=white&color=5CA1B2).  
 &nbsp;  
 We could meet on [Linkedin], [Instagram] or [Behance].   
