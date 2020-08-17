@@ -1,10 +1,8 @@
-<img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png"/>  
-
 Hi, I'm Alex and I love simply things.  
 I'm a frontend / full-stack developer, and also involved in UI/UX design.  
 
 We could meet on [Linkedin], [Instagram] or [Behance].  
-Or just check the profile infographics from the [navigation] repo.  
+Or just check the portolio infographics in the [navigation] repo.  
 &nbsp;   
  
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>
@@ -33,7 +31,9 @@ Or just check the profile infographics from the [navigation] repo.
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe_Illustrator&logoColor=white&color=5CA1B2)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe_Photoshop&logoColor=white&color=5CA1B2)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=5CA1B2)   
+&nbsp;   
 
+<img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png"/>  
 
    [linkedin]: <http://angularjs.org>
    [instagram]: <https://www.instagram.com/pockethabr>
