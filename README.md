@@ -3,9 +3,7 @@ I'm a frontend/full-stack developer, and also involved in UI/UX design.
 
 Portolio build/releases repo: [navigation](https://img.shields.io/badge/Tools-XD-informational?style=flat&logo=Adobe_XD&logoColor=white&color=5CA1B2).  
 Or just check my website, in 2020 I still have one:  
-&nbsp;  
 [![brandband](https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png "brandband")](https://brandband.io/)  
-&nbsp;  
 We could meet on [Linkedin], [Instagram] or [Behance].   
 ## Technologies & Tools  
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>
