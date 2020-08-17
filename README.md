@@ -1,10 +1,11 @@
 Hi, I'm Alex and I love simply things.  
 I'm a frontend / full-stack developer, and also involved in UI/UX design.  
 
-We could meet on [linkedin], [instagram] or [behance].  
+We could meet on [![LinkedIn][linkedin-logo]][linkedin], [instagram] or [behance].  
 Or just check a profile infographics from the [navigation] repo.  
  
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>
+
 ![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/PF-NodeJS-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
@@ -13,12 +14,12 @@ Or just check a profile infographics from the [navigation] repo.
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)    
 
 
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/F-AngularJS-informational?style=flat&logo=Angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/F-React_Native-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)    
+![](https://img.shields.io/badge/F-React_Native-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)   
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a) 
 
 
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
@@ -44,3 +45,4 @@ Or just check a profile infographics from the [navigation] repo.
    [instagram]: <https://www.instagram.com/pockethabr>
    [behance]: <https://www.behance.net/alexdovghi6c9c>
    [navigation]: <https://github.com/hadabr/navigation>
+   [linkedin-logo]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
