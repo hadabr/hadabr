@@ -4,7 +4,7 @@ Hi, I'm Alex and I love simply things.
 I'm a frontend / full-stack developer, and also involved in UI/UX design.  
 
 We could meet on [Linkedin], [Instagram] or [Behance].  
-Or just check the profile infographics from the [**navigation**] repo.  
+Or just check the profile build/releases entry point in [**navigation**] repo.  
 &nbsp;   
  
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>
