@@ -6,6 +6,7 @@ The portolio build/releases repo: [navigation](https://img.shields.io/badge/Tool
 Or just check my website, in 2020 I still have one.)  
 &nbsp;  
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png"/>  
+&nbsp;  
 We could meet on [Linkedin], [Instagram] or [Behance].   
 ## Technologies & Tools  
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>
