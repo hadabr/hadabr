@@ -4,13 +4,13 @@ I'm a frontend / full-stack developer, and also involved in UI/UX design.
 We could meet on [linkedin], [instagram] or [behance].  
 Or just check a profile infographics from the [navigation] repo.  
 
-<img src = "https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/assets/DEVELOPMENT.png"/>
+<img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>
 React Redux | NodeJS | ExpressJS | HTML5 | CSS3 | AngularJS | React Native | Javascript |  Typescript | Bootstrap | SASS | GraphQl | REST    
 Electron | Postgresql | Mongodb | Webpack  
-<img src = "https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/assets/ui-design.png"/>    
+<img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui-design.png"/>    
 Adobe Photoshop | Adobe XD | Figma    
 
-[<img src = "https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/assets/brandband-logo.png"/>](brandband.io)   
+[<img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband-logo.png"/>](brandband.io)   
 
 
 
