@@ -29,12 +29,14 @@ Technologies & Tools
 ![](https://img.shields.io/badge/API-GraphQl-informational?style=flat&logo=GraphQl&logoColor=white&color=5CA1B2)
 ![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=5CA1B2)   
 
-<img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui-design.png"/>
+
+<img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>
+
 ![](https://img.shields.io/badge/Tools-XD-informational?style=flat&logo=Adobe_XD&logoColor=white&color=5CA1B2)
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe_Illustrator&logoColor=white&color=5CA1B2)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe_Photoshop&logoColor=white&color=5CA1B2)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=5CA1B2)   
-
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=5CA1B2)
+   
 
    [linkedin]: <http://angularjs.org>
    [instagram]: <https://www.instagram.com/pockethabr>
