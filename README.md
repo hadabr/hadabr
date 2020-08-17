@@ -1,4 +1,4 @@
-### Hi! I'm Alex and I love simply things.
+Hi! I'm Alex and I love simply things.
 
 Here is 
 
