@@ -21,8 +21,8 @@ Or just check the profile infographics from the [navigation] repo.
 ![](https://img.shields.io/badge/Lib-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=5CA1B2)
 ![](https://img.shields.io/badge/Lib-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=5CA1B2)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=5CA1B2) 
-![](https://img.shields.io/badge/DB-Mongodb-informational?style=flat&logo=Mongodb&logoColor=white&color=5CA1B2)
-![](https://img.shields.io/badge/API-REST-informational?style=flat&logo=REST&logoColor=white&color=5CA1B2)  
+![](https://img.shields.io/badge/DB-Mongodb-informational?style=flat&logo=Mongodb&logoColor=white&color=5CA1B2)  
+![](https://img.shields.io/badge/API-REST-informational?style=flat&logo=REST&logoColor=white&color=5CA1B2)
 ![](https://img.shields.io/badge/API-GraphQl-informational?style=flat&logo=GraphQl&logoColor=white&color=5CA1B2)
 ![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=5CA1B2)    
 
