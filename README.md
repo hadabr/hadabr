@@ -21,7 +21,7 @@ Or just check a profile infographics from the [navigation] repo.
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Mongodb-informational?style=flat&logo=Mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/API-GraphQl-informational?style=flat&logo=GraphQl&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/API-REST-informational?style=flat&logo=REST&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/API-REST-informational?style=flat&logo=REST&logoColor=white&color=2bbc8a)  
 ![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=2bbc8a)    
 
 
