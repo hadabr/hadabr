@@ -33,8 +33,8 @@ We could meet on [Linkedin], [Instagram] or [Behance].
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe_Photoshop&logoColor=white&color=5CA1B2)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=5CA1B2)
 &nbsp;  
-Or just check my website, in 2020 I still have one:  
 &nbsp;  
+Or just check my website, in 2020 I still have one:  
 [![brandband](https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png "brandband")](https://brandband.io/)  
 
    [linkedin]: <http://angularjs.org>
