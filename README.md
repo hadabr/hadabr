@@ -33,7 +33,7 @@ Or just check the profile infographics from the [navigation] repo.
 &nbsp;  
 &nbsp;  
 &nbsp;  
-[<img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png"/>](https://brandband.io)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v&nbsp;&nbsp;&nbsp;&nbsp;[<img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png"/>](https://brandband.io)   
 
 
 
