@@ -1,6 +1,6 @@
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png"/>  
-&nbsp;  
-Hi, I'm [Alex](https://brandband.io) and I love simply things.  
+
+Hi, I'm Alex and I love simply things.  
 I'm a frontend / full-stack developer, and also involved in UI/UX design.  
 
 We could meet on [Linkedin], [Instagram] or [Behance].  
