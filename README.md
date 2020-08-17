@@ -4,8 +4,7 @@ I'm a frontend / full-stack developer, and also involved in UI/UX design.
 We could meet on [linkedin], [instagram] or [behance].  
 Or just check a profile infographics from the [navigation] repo.  
  
-<img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>
-
+<img width="100px" src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>
 ![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/PF-NodeJS-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
@@ -23,14 +22,13 @@ Or just check a profile infographics from the [navigation] repo.
 ![](https://img.shields.io/badge/API-GraphQl-informational?style=flat&logo=GraphQl&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/API-REST-informational?style=flat&logo=REST&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=2bbc8a)  
-<img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui-design.png"/>    
+<img width="100px" src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui-design.png"/>    
 ![](https://img.shields.io/badge/Tools-XD-informational?style=flat&logo=XD&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Figma&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Photoshop&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=2bbc8a)  
 
-
-[<img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png"/>](brandband.io)   
+[<img width="100px" src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png"/>](brandband.io)   
 
 
 
