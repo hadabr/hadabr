@@ -2,12 +2,12 @@ Hi, I'm Alex and I love simply things.
 I'm a frontend/full-stack developer, and also involved in UI/UX design.  
 
 We could meet on [Linkedin], [Instagram] or [Behance].  
-There is the portolio build/releases in [**navigation**] repo.  
-Or just visit my website, in 2020 I still have one ;)  
+The portolio build/releases repo: [**navigation**] .  
+Or just check my website, in 2020 I still have one ;)  
 &nbsp;  
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png"/>   
 &nbsp;  
-Technologies & Tools  
+### Technologies & Tools  
 &nbsp;  
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>
 
@@ -30,7 +30,7 @@ Technologies & Tools
 ![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=5CA1B2)   
 
 
-<img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>
+<img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui-design.png"/>
 
 ![](https://img.shields.io/badge/Tools-XD-informational?style=flat&logo=Adobe_XD&logoColor=white&color=5CA1B2)
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe_Illustrator&logoColor=white&color=5CA1B2)
