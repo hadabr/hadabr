@@ -2,11 +2,7 @@ Hi, I'm Alex and I love simply things.
 I'm a frontend / full-stack developer, and also involved in UI/UX design.  
 
 We could meet on [Linkedin], [Instagram] or [Behance].  
-<<<<<<< HEAD
-Or just check the portolio infographics in the [navigation] repo.  
-=======
 Or just check the profile build/releases entry point in [**navigation**] repo.  
->>>>>>> e1075fe56354163f68e11a56ab6e8854f307f101
 &nbsp;   
  
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>
