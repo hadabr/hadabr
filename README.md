@@ -2,7 +2,7 @@ Hi, I'm Alex and I love simply things.
 I'm a frontend/full-stack developer, and also involved in UI/UX design.  
 
 The portolio build/releases repo: [navigation](https://img.shields.io/badge/Tools-XD-informational?style=flat&logo=Adobe_XD&logoColor=white&color=5CA1B2).  
-Or just check a website, in 2020 I still have.)  
+Or just check a website, in 2020 I still have one.)  
 &nbsp;  
 [![brandband](https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png "brandband")](https://brandband.io/)  
 &nbsp;  
