@@ -13,6 +13,7 @@ Or just check the portolio build/releases in [**navigation**] repo.
 ![](https://img.shields.io/badge/PF-Electron-informational?style=flat&logo=Electron&logoColor=white&color=5CA1B2)
 ![](https://img.shields.io/badge/Server-ExpressJS-informational?style=flat&logo=JavaScript&logoColor=white&color=5CA1B2)  
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=5CA1B2)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=5CA1B2)
 ![](https://img.shields.io/badge/FW-React_Native-informational?style=flat&logo=react&logoColor=white&color=5CA1B2)
 ![](https://img.shields.io/badge/FW-AngularJS-informational?style=flat&logo=Angular&logoColor=white&color=5CA1B2)     
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=5CA1B2)
@@ -32,7 +33,8 @@ Or just check the portolio build/releases in [**navigation**] repo.
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe_Photoshop&logoColor=white&color=5CA1B2)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=5CA1B2)   
 &nbsp;   
-
+&nbsp;   
+_   
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png"/>  
 
    [linkedin]: <http://angularjs.org>
