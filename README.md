@@ -24,9 +24,9 @@ Or just check a profile infographics from the [navigation] repo.
 ![](https://img.shields.io/badge/API-REST-informational?style=flat&logo=REST&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=2bbc8a)  
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui-design.png"/>    
-![](https://img.shields.io/badge/Tools-XD-informational?style=flat&logo=XD&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Figma&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Photoshop&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-XD-informational?style=flat&logo=Adobe_XD&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe_Illustrator&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe_Photoshop&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=2bbc8a)  
 
 [<img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png"/>](brandband.io)   
