@@ -1,4 +1,4 @@
-### Hi, I'm Alex and I love simply things.  
+#### Hi, I'm Alex and I love simply things.  
 
 Frontend/Full-stack developer, also involved in UI/UX design.  
 Portolio build/releases repo: [**[** navigation **]**](https://github.com/hadabr/navigation).  
