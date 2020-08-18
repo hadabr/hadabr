@@ -1,4 +1,4 @@
- 
+<img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/header.png"/>
 #### Hi, I'm Alex and I love simply things.  
 
 Frontend/Full-stack developer, also involved in UI/UX design.  
