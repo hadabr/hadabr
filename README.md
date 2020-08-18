@@ -28,10 +28,10 @@ We could meet on [Linkedin], [Instagram] or [Behance].
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui-design.png"/>
 
-![](https://img.shields.io/badge/%20-Adobe_XD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=55A6BA)
-![](https://img.shields.io/badge/%20-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=55A6BA)
-![](https://img.shields.io/badge/%20-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=55A6BA)
-![](https://img.shields.io/badge/%20-Figma-informational?style=flat&logo=Figma&logoColor=white&color=55A6BA)
+![](https://img.shields.io/badge/|-Adobe_XD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=55A6BA)
+![](https://img.shields.io/badge/|-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=55A6BA)
+![](https://img.shields.io/badge/|-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=55A6BA)
+![](https://img.shields.io/badge/|-Figma-informational?style=flat&logo=Figma&logoColor=white&color=55A6BA)
 &nbsp;  
 &nbsp;  
 &nbsp;  
