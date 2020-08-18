@@ -1,4 +1,5 @@
-#### Hi, I'm Alex and I love simply things.  
+ 
+![](https://img.shields.io/badge/Hi,-I'm_Alex_and_I_love_simply_things-informational?style=flat&logo=no&logoColor=white&color=55A6BA)
 
 Frontend/Full-stack developer, also involved in UI/UX design.  
 Portolio build/releases repo: [**[** navigation **]**](https://github.com/hadabr/navigation).  
