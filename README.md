@@ -1,5 +1,5 @@
-<img width = "300px" src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/header.png"/>  
 #### Hi, I'm Alex and I love simply things.  
+![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react&logoColor=white&color=55A6BA)  
 
 Frontend/Full-stack developer, also involved in UI/UX design.  
 Portolio build/releases repo: [**[** navigation **]**](https://github.com/hadabr/navigation).  
