@@ -1,5 +1,4 @@
-#### Hi, I'm Alex and I love simply things.  
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=55A6BA)  
+### Hi, I'm Alex and I love simply things.  
 
 Frontend/Full-stack developer, also involved in UI/UX design.  
 Portolio build/releases repo: [**[** navigation **]**](https://github.com/hadabr/navigation).  
