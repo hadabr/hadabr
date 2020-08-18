@@ -30,7 +30,7 @@ We could meet on [Linkedin], [Instagram] or [Behance].
 
 ![](https://img.shields.io/badge/Tools-Adobe_XD-informational?style=flat&logo=Adobe_XD&logoColor=white&color=55A6BA)
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe_Illustrator&logoColor=white&color=55A6BA)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe_Photoshop&logoColor=white&color=55A6BA)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=55A6BA)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=55A6BA)
 &nbsp;  
 &nbsp;  
