@@ -7,8 +7,7 @@ We could meet on [Linkedin], [Instagram] or [Behance].
 ## Technologies & Tools  
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>
 
-![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react&logoColor=white&color=55A6BA)
-![](https://img.shields.io/badge/Lib-Redux-informational?style=flat&logo=redux&logoColor=white&color=55A6BA)
+![](https://img.shields.io/badge/Lib-React_Redux-informational?style=flat&logo=react&logoColor=white&color=55A6BA)
 ![](https://img.shields.io/badge/PF-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=55A6BA)
 ![](https://img.shields.io/badge/PF-Electron-informational?style=flat&logo=Electron&logoColor=white&color=55A6BA)
 ![](https://img.shields.io/badge/Server-ExpressJS-informational?style=flat&logo=JavaScript&logoColor=white&color=55A6BA)  
