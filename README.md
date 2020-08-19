@@ -23,6 +23,7 @@ We could meet on [Linkedin], [Instagram] or [Behance].
 ![](https://img.shields.io/badge/DB-Mongodb-informational?style=flat&logo=Mongodb&logoColor=white&color=55A6BA)  
 ![](https://img.shields.io/badge/API-REST-informational?style=flat&logo=REST&logoColor=white&color=55A6BA)
 ![](https://img.shields.io/badge/API-GraphQl-informational?style=flat&logo=GraphQl&logoColor=white&color=55A6BA)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=55A6BA)
 ![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=55A6BA)   
 
 
