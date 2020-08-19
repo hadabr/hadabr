@@ -35,7 +35,7 @@ We could meet on [Linkedin], [Instagram] or [Behance].
 &nbsp;  
 &nbsp;  
 &nbsp;  
-Or just check my website, in 2020 I still have one:  
+My website, in 2020 I still have one:  
 [![brandband](https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png "brandband")](https://brandband.io/)  
 
    [linkedin]: <http://angularjs.org>
