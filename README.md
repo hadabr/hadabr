@@ -25,7 +25,7 @@ We could meet on [Linkedin], [Instagram] or [Behance].
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=55A6BA)
 ![Webpack](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=55A6BA)     
 ![gulp](https://img.shields.io/badge/Tools-Gulp-informational?style=flat&logo=Gulp&logoColor=white&color=55A6BA)    
-![ngnix](https://img.shields.io/badge/Tools-ngnix-informational?style=flat&logo=ngnix&logoColor=white&color=55A6BA)    
+![nginx](https://img.shields.io/badge/Tools-NGNIX-informational?style=flat&logo=NGNIX&logoColor=white&color=55A6BA)    
 
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui-design.png"/>
