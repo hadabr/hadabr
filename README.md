@@ -4,7 +4,7 @@ Frontend/Full-stack developer, also involved in UI/UX design.
 Build/releases aggregator: [**[** navigation **]**](https://github.com/hadabr/navigation).  
 &nbsp;  
 We could meet on [Linkedin], [Instagram] or [Behance].   
-## Technologies & Tools  
+
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>
 
 ![react redux](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react&logoColor=white&color=55A6BA)
