@@ -9,7 +9,6 @@ We could meet on [Linkedin], [Instagram] or [Behance].
 
 ![react redux](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react&logoColor=white&color=55A6BA)
 ![NodeJS](https://img.shields.io/badge/PF-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=55A6BA)  
-<a href="https://twitter.com/badgen_net"><img src="https://badgen.net/badge/twitter/@badgen_net/1DA1F2?icon&label" /></a>
 ![Electron](https://img.shields.io/badge/PF-Electron-informational?style=flat&logo=Electron&logoColor=white&color=55A6BA)
 ![ExpressJS](https://img.shields.io/badge/Server-ExpressJS-informational?style=flat&logo=JavaScript&logoColor=white&color=55A6BA)  
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=55A6BA)
