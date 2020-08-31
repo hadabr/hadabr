@@ -20,7 +20,7 @@ AngularJS |
 SASS    
 Vue | 
 PostgreSQL | 
-Mongodb   
+Mongodb |
 RestAPI | 
 GraphQl | 
 Webpack | 
