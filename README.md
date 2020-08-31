@@ -5,7 +5,7 @@ Build/releases aggregator: [**[ navigation ]**](https://github.com/hadabr/naviga
 &nbsp;  
 [![Linkedin](https://img.shields.io/badge/|-Linkedin-informational?style=flat&logo=Linkedin&logoColor=white&color=55A6BA)][Linkedin]  
 &nbsp;  
-We could meet on [Linkedin], [Instagram] or [Behance].   
+We could meet on [Instagram] or [Behance].   
 &nbsp;    
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>
