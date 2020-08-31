@@ -1,12 +1,11 @@
 **Hi, I'm Alex and I love simply things.**  
-
+<sup> </sup>
 Frontend/Full-stack developer, also involved in UI/UX design.  
 Build/releases aggregator: [**[ navigation ]**](https://github.com/hadabr/navigation).  
-&nbsp;  
+<sup> </sup>
 [![Linkedin](https://img.shields.io/badge/⋮-Linkedin-informational?style=flat&logo=Linkedin&logoColor=white&color=c2888c)][Linkedin]  
-&nbsp;  
+<sup> </sup>
 We could meet on [Instagram] or [Behance].   
-&nbsp;    
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>  
 React Redux | 
@@ -26,7 +25,7 @@ GraphQl |
 Webpack | 
 Gulp | 
 NGINX  
-
+<sup> </sup>
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui-design.png"/>
 Adobe XD | 
 Adobe Photoshop | 
