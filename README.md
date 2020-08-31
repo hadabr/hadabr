@@ -10,19 +10,19 @@ We could meet on [Linkedin], [Instagram] or [Behance].
 React Redux | 
 NodeJS | 
 Electron | 
-ExpressJS | 
+ExpressJS |   
 Javascript | 
 Git | 
 React Native | 
-AngularJS | 
+AngularJS |   
 SASS | 
 Vue | 
 PostgreSQL | 
-Mongodb | 
+Mongodb |   
 RestAPI | 
 GraphQl | 
 Git | 
-Webpack |
+Webpack |   
 Gulp | 
 NGINX
 
