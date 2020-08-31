@@ -23,7 +23,7 @@ RestAPI |
 GraphQl | 
 Git | 
 Webpack | 
-Gulp |   
+Gulp | 
 NGINX
 
 
