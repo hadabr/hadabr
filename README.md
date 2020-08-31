@@ -1,7 +1,7 @@
-Hi, I'm Alex and I love simply things.  
+**Hi, I'm Alex and I love simply things.**  
 
 Frontend/Full-stack developer, also involved in UI/UX design.  
-Build/releases aggregator: [**[** navigation **]**](https://github.com/hadabr/navigation).  
+Build/releases aggregator: [**[ navigation ]**](https://github.com/hadabr/navigation).  
 &nbsp;  
 We could meet on [Linkedin], [Instagram] or [Behance].   
 
@@ -34,8 +34,9 @@ Adobe Photoshop |
 Figma  
 &nbsp;  
 &nbsp;  
-&nbsp;  
-My website, in 2020 I still have one:  
+
+My website, in 2020 I still have one: 
+&nbsp; 
 [![brandband](https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png "brandband")](https://brandband.io/)  
 
    [linkedin]: <https://www.linkedin.com/in/alex-dovghii/>
