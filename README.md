@@ -31,7 +31,7 @@ NGINX
 
 Adobe XD | 
 Adobe Photoshop | 
-Figma | 
+Figma  
 &nbsp;  
 &nbsp;  
 &nbsp;  
