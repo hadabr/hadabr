@@ -8,7 +8,8 @@ Build/releases aggregator: [**[ navigation ]**](https://github.com/hadabr/naviga
 We could meet on [Instagram] or [Behance].   
 &nbsp;    
 
-<img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>
+<img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>  
+
 React Redux | 
 NodeJS | 
 Electron | 
