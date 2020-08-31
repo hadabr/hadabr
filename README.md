@@ -7,7 +7,7 @@ We could meet on [Linkedin], [Instagram] or [Behance].
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>
 
-<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/React.svg" />React Redux 𝄢 React Native ⋮⋮ Git ⋮ Electron ⋮⋮ Webpack   
+<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />React Redux 𝄢 React Native ⋮⋮ Git ⋮ Electron ⋮⋮ Webpack   
 
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui-design.png"/>
