@@ -1,7 +1,7 @@
 **Hi, I'm Alex and I love simply things.**  
 
 Frontend/Full-stack Web developer, involved in UI/UX design.  
-Projects/releases aggregator: [**[ navigation ]**](https://github.com/hadabr/navigation).  
+Projects/releases aggregator: [**[** **navigation ]**](https://github.com/hadabr/navigation).  
 
 [![Linkedin](https://img.shields.io/badge/⋮-Linkedin-informational?style=flat&logo=Linkedin&logoColor=white&color=2a97d1)][Linkedin]  
 
