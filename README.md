@@ -9,7 +9,6 @@ We could meet on [Instagram] or [Behance].
 &nbsp;    
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>  
-
 React Redux | 
 NodeJS | 
 Electron | 
@@ -29,7 +28,6 @@ Gulp |
 NGINX  
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui-design.png"/>
-
 Adobe XD | 
 Adobe Photoshop | 
 Figma  
