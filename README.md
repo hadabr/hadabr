@@ -36,7 +36,7 @@ Figma
 &nbsp;  
 
 My website, in 2020 I still have one: 
-&nbsp; 
+&nbsp;  
 [![brandband](https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png "brandband")](https://brandband.io/)  
 
    [linkedin]: <https://www.linkedin.com/in/alex-dovghii/>
