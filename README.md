@@ -23,7 +23,7 @@ GraphQl |
 Webpack | 
 Gulp | 
 NGINX  
-<sup> </sup>
+
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui-design.png"/>
 Adobe XD | 
 Adobe Photoshop | 
