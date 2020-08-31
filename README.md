@@ -3,9 +3,9 @@
 Frontend/Full-stack developer, also involved in UI/UX design.  
 Build/releases aggregator: [**[ navigation ]**](https://github.com/hadabr/navigation).  
 
-We could meet on [Instagram] or [Behance].   
 [![Linkedin](https://img.shields.io/badge/⋮-Linkedin-informational?style=flat&logo=Linkedin&logoColor=white&color=c2888c)][Linkedin]  
 
+We could meet on [Instagram] or [Behance].   
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>  
 
@@ -32,7 +32,7 @@ Adobe XD |
 Adobe Photoshop | 
 Figma  
 &nbsp;    
-
+  
 My website, in 2020 I still have one:   
 [![brandband](https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband-1.png "brandband")](https://brandband.io/)  
 .
