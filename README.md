@@ -7,7 +7,7 @@ We could meet on [Linkedin], [Instagram] or [Behance].
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>
 
-React Redux ⋮ React Native ⋮ Git ⋮ Electron ⋮ Webpack   
+React Redux ⋮⋮ React Native ⋮⋮ Git ⋮ Electron ⋮⋮ Webpack   
 
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui-design.png"/>
