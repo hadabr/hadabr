@@ -6,12 +6,13 @@ Build/releases aggregator: [**[ navigation ]**](https://github.com/hadabr/naviga
 We could meet on [Instagram] or [Behance].   
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>  
+
 React Redux | 
 NodeJS | 
 Electron | 
 ExpressJS | 
 Javascript | 
-Git   
+Git    
 React Native | 
 AngularJS | 
 SASS | 
