@@ -1,5 +1,5 @@
 **Hi, I'm Alex and I love simply things.**  
-<sup> </sup>
+<sup>&nbsp;</sup>  
 Frontend/Full-stack developer, also involved in UI/UX design.  
 Build/releases aggregator: [**[ navigation ]**](https://github.com/hadabr/navigation).  
 <sup> </sup>
