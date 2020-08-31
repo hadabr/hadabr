@@ -14,10 +14,10 @@ NodeJS |
 Electron | 
 ExpressJS | 
 Javascript | 
-Git    
+Git |
 React Native | 
 AngularJS | 
-SASS | 
+SASS    
 Vue | 
 PostgreSQL | 
 Mongodb   
