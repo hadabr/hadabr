@@ -1,10 +1,8 @@
 **Hi, I'm Alex and I love simply things.**  
-<sup>&nbsp;</sup>  
+
 Frontend/Full-stack developer, also involved in UI/UX design.  
-Build/releases aggregator: [**[ navigation ]**](https://github.com/hadabr/navigation).  
-<sup> </sup>
-[![Linkedin](https://img.shields.io/badge/⋮-Linkedin-informational?style=flat&logo=Linkedin&logoColor=white&color=c2888c)][Linkedin]  
-<sup> </sup>
+Build/releases aggregator: [**[ navigation ]**](https://github.com/hadabr/navigation). [![Linkedin](https://img.shields.io/badge/⋮-Linkedin-informational?style=flat&logo=Linkedin&logoColor=white&color=c2888c)][Linkedin]  
+
 We could meet on [Instagram] or [Behance].   
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>  
