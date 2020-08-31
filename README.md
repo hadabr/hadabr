@@ -3,7 +3,7 @@
 Frontend/Full-stack developer, also involved in UI/UX design.  
 Build/releases aggregator: [**[ navigation ]**](https://github.com/hadabr/navigation).  
 &nbsp;  
-[![Linkedin](https://img.shields.io/badge/⋮-Linkedin-informational?style=flat&logo=Linkedin&logoColor=white&color=3ead5d)][Linkedin]  
+[![Linkedin](https://img.shields.io/badge/⋮-Linkedin-informational?style=flat&logo=Linkedin&logoColor=white&color=3fab7e)][Linkedin]  
 &nbsp;  
 We could meet on [Instagram] or [Behance].   
 &nbsp;    
