@@ -22,7 +22,6 @@ PostgreSQL |
 Mongodb   
 RestAPI | 
 GraphQl | 
-Git | 
 Webpack | 
 Gulp | 
 NGINX
