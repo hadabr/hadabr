@@ -9,7 +9,8 @@ We could meet on [Instagram] or [Behance].
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEV.png"/>  
 
-React | 
+React |
+Redux | 
 NodeJS | 
 Electron | 
 ExpressJS | 
