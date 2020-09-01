@@ -26,8 +26,7 @@ RestAPI |
 GraphQl | 
 Webpack | 
 Gulp | 
-NGINX  
-
+NGINX    
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui.png"/>  
 Adobe XD | 
 Adobe Photoshop | 
