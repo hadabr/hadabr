@@ -7,7 +7,7 @@ Recent projects/releases: [**[** **navigation ]**](https://github.com/hadabr/nav
 
 We could meet on [Instagram] or [Behance].   
 
-<img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEVELOPMENT.png"/>  
+<img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEV.png"/>  
 
 React | 
 NodeJS | 
