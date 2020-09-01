@@ -28,7 +28,7 @@ Webpack |
 Gulp | 
 NGINX  
 
-<img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui-design.png"/>  
+<img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui.png"/>  
 Adobe XD | 
 Adobe Photoshop | 
 Figma  
