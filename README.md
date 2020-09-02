@@ -19,6 +19,7 @@ Git |
 React Native | 
 AngularJS | 
 SASS    
+Canvas | 
 Vue | 
 PostgreSQL | 
 Mongodb |
