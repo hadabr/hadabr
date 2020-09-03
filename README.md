@@ -3,7 +3,7 @@
 Frontend/Full-stack Web developer, involved in UI/UX design.  
 Recent projects/releases: [**[** **navigation** **]**](https://github.com/hadabr/navigation).  
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%ffffff.svg?&style=for-the-badge&logo=linkedin&logoColor=230077B5)][Linkedin]  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%ffffff.svg?&style=for-the-badge&logo=linkedin&logoColor=#230077B5)][Linkedin]  
 
 We could meet on [Instagram] or [Behance].  
 
