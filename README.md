@@ -3,7 +3,7 @@
 Frontend/Full-stack Web developer, involved in UI/UX design.  
 Recent projects/releases: [**[** **navigation ]**](https://github.com/hadabr/navigation).  
 
-We could meet on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][Linkedin] [![Instagram](https://img.shields.io/badge/instagram-%23ff813f.svg?&style=for-the-badge&logo=instagram&logoColor=white)][Instagram] [![Behance](https://img.shields.io/badge/behance-%231DA1F2.svg?&style=for-the-badge&logo=behance&logoColor=white)][Behance]    
+We could meet on [![](https://img.shields.io/badge/We-could-meet-on-%fff.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][Linkedin] [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][Linkedin] [![Instagram](https://img.shields.io/badge/instagram-%23ff813f.svg?&style=for-the-badge&logo=instagram&logoColor=white)][Instagram] [![Behance](https://img.shields.io/badge/behance-%231DA1F2.svg?&style=for-the-badge&logo=behance&logoColor=white)][Behance]    
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEV.png"/>  
 
