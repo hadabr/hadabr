@@ -5,7 +5,7 @@ Recent projects/releases: [**[** **navigation** **]**](https://github.com/hadabr
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-white?logo=Linkedin&style=for-the-badge&color=blue)][Linkedin]  
 
-We could meet on [Instagram] or [Behance].  
+We could meet on [Instagram].  
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/DEV.png"/>  
 
