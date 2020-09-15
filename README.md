@@ -36,10 +36,9 @@ Figma
 
 &nbsp;  
 My website, in 2020 I still have one:   
-[![brandband](https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband-logo.png "brandband")](https://brandband.io/)  
+[![brandband](https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brabant.png "brandband")](https://brandband.io/)  
 
    [linkedin]: <https://www.linkedin.com/in/alex-dovghii/>
    [instagram]: <https://www.instagram.com/pockethabr>
    [behance]: <https://www.behance.net/alexdovghi6c9c>
    [navigation]: <https://github.com/hadabr/navigation>
-   [linkedin-logo]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
