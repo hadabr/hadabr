@@ -1,11 +1,10 @@
 **Hi, I'm Alex and I love simply things.**  
 
 Frontend/full-stack web developer and UI/UX designer.  
-Recent projects/releases: [**[** **navigation** **]**](https://github.com/hadabr/navigation).  
-
-![](https://img.shields.io/badge/We_could_meet_on-black?logo=none&style=for-the-badge&color=white)
+We could meet on  
 [![LinkedIn](https://img.shields.io/badge/Linkedin-black?logo=Linkedin&logoColor=2867B2&style=for-the-badge&color=white)][Linkedin]
 [![Instagram](https://img.shields.io/badge/Instagram-white?logo=Instagram&style=for-the-badge&color=white)][Instagram]    
+Recent projects/releases: [**[** **navigation** **]**](https://github.com/hadabr/navigation).  
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/development.svg"/>  
 
