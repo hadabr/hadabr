@@ -3,7 +3,7 @@
 Frontend/full-stack web developer and UI/UX designer.  
 Recent projects/releases: [**[** **navigation** **]**](https://github.com/hadabr/navigation).  
 
-![](https://img.shields.io/badge/We_could_meet-black?logo=Linkedin&logoColor=2867B2&style=for-the-badge&color=white)
+![](https://img.shields.io/badge/We_could_meet-black&style=for-the-badge&color=white)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-black?logo=Linkedin&logoColor=2867B2&style=for-the-badge&color=white)][Linkedin]
 [![Instagram](https://img.shields.io/badge/Instagram-white?logo=Instagram&style=for-the-badge&color=white)][Instagram]    
 
