@@ -1,7 +1,7 @@
 **Hi, I'm Alex and I love simply things.**  
 
 Frontend/full-stack web developer and UI/UX designer.  
-Recent projects/releases: [**[** **navigation** **]**](https://github.com/hadabr/navigation).  
+Recent projects/releases: [**[** **releases** **]**][releases].  
 
 We could meet on **[Linkedin]** or **[Instagram]**.  
 
@@ -40,4 +40,4 @@ My website, in 2020 I still have one:
    [linkedin]: <https://www.linkedin.com/in/alex-dovghii/>
    [instagram]: <https://www.instagram.com/pockethabr>
    [behance]: <https://www.behance.net/alexdovghi6c9c>
-   [navigation]: <https://github.com/hadabr/navigation>
+   [releases]: <https://github.com/hadabr/releases>
