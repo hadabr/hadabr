@@ -1,11 +1,12 @@
 **Hi, I'm Alex and I love simply things.**  
 
 Frontend/full-stack web developer and UI/UX designer.  
+Recent projects/releases: [**[** **releases** **]**][releases].  
 
 We could meet on  
 [![LinkedIn](https://img.shields.io/badge/Linkedin-black?logo=Linkedin&logoColor=2867B2&style=for-the-badge&color=white)][Linkedin]
 [![Instagram](https://img.shields.io/badge/Instagram-white?logo=Instagram&style=for-the-badge&color=white)][Instagram]    
-Recent projects/releases: [**[** **navigation** **]**](https://github.com/hadabr/navigation).  
+
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/development.svg"/>  
 
@@ -42,4 +43,4 @@ My website, in 2020 I still have one:
    [linkedin]: <https://www.linkedin.com/in/alex-dovghii/>
    [instagram]: <https://www.instagram.com/pockethabr>
    [behance]: <https://www.behance.net/alexdovghi6c9c>
-   [navigation]: <https://github.com/hadabr/navigation>
+   [releases]: <https://github.com/hadabr/releases>
