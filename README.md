@@ -4,9 +4,6 @@ Frontend/full-stack web developer and UI/UX designer.
 Recent projects/releases: [**[** **releases** **]**][releases].  
 
 We could meet on **[Linkedin]** or **[Instagram]**  
-[![LinkedIn](https://img.shields.io/badge/Linkedin-black?logo=Linkedin&logoColor=2867B2&style=for-the-badge&color=white)][Linkedin]
-[![Instagram](https://img.shields.io/badge/Instagram-white?logo=Instagram&style=for-the-badge&color=white)][Instagram]    
-
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/development.svg"/>  
 
@@ -37,10 +34,12 @@ Figma
 
 &nbsp;  
 My website, in 2020 I still have one:   
-[![brandband](https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brabant-ico.png
- "brandband")](https://brandband.io/)  
+![brandband](https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brabant-ico.png
+ "brandband")
+ ![](https://img.shields.io/badge/BRANDBAND-black?logo=NONE&style=for-the-badge&color=white)
 
    [linkedin]: <https://www.linkedin.com/in/alex-dovghii/>
    [instagram]: <https://www.instagram.com/pockethabr>
    [behance]: <https://www.behance.net/alexdovghi6c9c>
    [releases]: <https://github.com/hadabr/releases>
+   [brandband]: <https://brandband.io>
