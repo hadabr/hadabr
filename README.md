@@ -3,7 +3,7 @@
 Frontend/full-stack web developer and UI/UX designer.  
 Recent projects/releases: [**[** **releases** **]**][releases].  
 
-We could meet on **[Linkedin]** or **[Instagram]**.  
+We could meet on [Linkedin] or [Instagram].  
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/development.svg"/>  
 
