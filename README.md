@@ -33,7 +33,7 @@ Adobe Photoshop |
 Figma  
 
 &nbsp;   
-[![brandband](https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband-logo.png
+[![brandband](https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband.png
  "brandband")](https://brandband.io/)  
 
    [linkedin]: <https://www.linkedin.com/in/alex-dovghii/>
