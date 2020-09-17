@@ -32,8 +32,7 @@ Adobe XD |
 Adobe Photoshop | 
 Figma  
 
-&nbsp;  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![brandband](https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband-logo.png
+&#9; &#9; &#9; &#9; [![brandband](https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband-logo.png
  "brandband")](https://brandband.io/)  
 
    [linkedin]: <https://www.linkedin.com/in/alex-dovghii/>
