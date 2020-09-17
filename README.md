@@ -34,7 +34,7 @@ Figma
 
 &nbsp;  
 My website, in 2020 I still have one:   
-![brandband](https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brand-logo.png
+![brandband](https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brand.png
  "brandband")![](https://img.shields.io/badge/BRANDBAND-black?logo=NONE&style=for-the-badge&color=white)
 
    [linkedin]: <https://www.linkedin.com/in/alex-dovghii/>
