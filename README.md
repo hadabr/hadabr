@@ -6,7 +6,7 @@ Recent projects/releases: [**[** **navigation** **]**](https://github.com/hadabr
 We could meet on  
 [![LinkedIn](https://img.shields.io/badge/Linkedin-black?logo=Linkedin&labelColor=blue&style=for-the-badge&color=white)][Linkedin] [![Instagram](https://img.shields.io/badge/Instagram-white?logo=Instagram&style=for-the-badge&color=white)][Instagram]    
 
-https://img.shields.io/badge/DEVELOPMENT-black?logo=Linkedin?style=flat&style=for-the-badge&color=white  
+![LinkedIn](https://img.shields.io/badge/DEVELOPMENT-black?logo=Linkedin?style=flat&style=for-the-badge&color=white)  
 
 React |
 Redux | 
