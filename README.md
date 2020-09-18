@@ -7,29 +7,29 @@ We could meet on [Linkedin] or [Instagram].
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/development.svg"/>  
 
-React &nbsp;
-Redux &nbsp; 
-NodeJS &nbsp; 
-Electron &nbsp; 
-ExpressJS &nbsp; 
-Javascript &nbsp; 
-Git &nbsp;
-React Native &nbsp; 
-AngularJS &nbsp; 
+React 
+Redux  
+NodeJS  
+Electron  
+ExpressJS  
+Javascript  
+Git 
+React_Native  
+AngularJS  
 SASS    
-Canvas &nbsp; 
+Canvas  
 Vue &nbsp; 
-PostgreSQL &nbsp; 
-Mongodb &nbsp;
-RestAPI &nbsp; 
-GraphQl &nbsp; 
-Webpack &nbsp; 
-Gulp &nbsp;| 
+PostgreSQL  
+Mongodb 
+RestAPI  
+GraphQl  
+Webpack  
+Gulp  
 NGINX    
   
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui.svg"/>  
-Adobe XD | 
-Adobe Photoshop | 
+Adobe XD  
+Adobe Photoshop  
 Figma  
 
 &nbsp;   
