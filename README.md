@@ -28,8 +28,8 @@ Gulp &nbsp;|&nbsp;
 NGINX    
   
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui.svg"/>  
-Adobe XD |
-Adobe Photoshop |
+Adobe XD &nbsp;|&nbsp;
+Adobe Photoshop &nbsp;|&nbsp;
 Figma  
 
 &nbsp;   
