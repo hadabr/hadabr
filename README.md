@@ -7,15 +7,15 @@ We could meet on [Linkedin] or [Instagram].
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/development.svg"/>  
 
-React 
-Redux  
-NodeJS  
-Electron  
-ExpressJS  
-Javascript  
-Git 
-React Native  
-AngularJS  
+React ‐
+Redux ‐
+NodeJS ‐
+Electron ‐
+ExpressJS ‐
+Javascript ‐
+Git ‐
+React Native ‐
+AngularJS ‐
 SASS    
 Canvas  
 Vue &nbsp; 
