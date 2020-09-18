@@ -14,7 +14,7 @@ Electron
 ExpressJS  
 Javascript  
 Git 
-React_Native  
+React Native  
 AngularJS  
 SASS    
 Canvas  
@@ -28,8 +28,8 @@ Gulp
 NGINX    
   
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui.svg"/>  
-Adobe XD  
-Adobe Photoshop  
+Adobe XD ‣
+Adobe Photoshop ‣
 Figma  
 
 &nbsp;   
