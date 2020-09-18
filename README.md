@@ -21,7 +21,7 @@ Canvas ‐
 Vue ‐ 
 PostgreSQL ‐ 
 Mongodb ‐
-RestAPI ‐  
+RestAPI ‐ 
 GraphQl ‐
 Webpack ‐
 Gulp ‐
