@@ -17,14 +17,14 @@ Git ‐
 React Native ‐
 AngularJS ‐
 SASS    
-Canvas  
-Vue &nbsp; 
-PostgreSQL  
-Mongodb 
-RestAPI  
-GraphQl  
-Webpack  
-Gulp  
+Canvas ‐
+Vue ‐ 
+PostgreSQL ‐ 
+Mongodb ‐
+RestAPI ‐  
+GraphQl ‐
+Webpack ‐
+Gulp ‐
 NGINX    
   
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui.svg"/>  
