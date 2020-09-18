@@ -9,22 +9,22 @@ We could meet on [Linkedin] or [Instagram].
 
 React &nbsp;|&nbsp;
 Redux &nbsp;|&nbsp; 
-NodeJS &nbsp;|&nbsp;  
-Electron | 
-ExpressJS | 
-Javascript | 
-Git |
-React Native | 
-AngularJS | 
+NodeJS &nbsp;|&nbsp;
+Electron &nbsp;|&nbsp;
+ExpressJS &nbsp;|&nbsp;
+Javascript &nbsp;|&nbsp;
+Git &nbsp;|&nbsp;
+React Native &nbsp;|&nbsp;
+AngularJS &nbsp;|&nbsp; 
 SASS  
-Canvas | 
-Vue | 
-PostgreSQL | 
-Mongodb |
-RestAPI | 
-GraphQl | 
-Webpack | 
-Gulp | 
+Canvas &nbsp;|&nbsp;
+Vue &nbsp;|&nbsp;
+PostgreSQL &nbsp;|&nbsp;
+Mongodb &nbsp;|&nbsp;
+RestAPI &nbsp;|&nbsp;
+GraphQl &nbsp;|&nbsp;
+Webpack &nbsp;|&nbsp;
+Gulp &nbsp;|&nbsp;
 NGINX    
   
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui.svg"/>  
