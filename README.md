@@ -17,7 +17,6 @@ Javascript |
 Git   
 AngularJS | 
 SASS |
-Canvas |
 Vue |
 Bootstrap |
 PostgreSQL |
