@@ -9,12 +9,12 @@ We could meet on [Linkedin] or [Instagram].
 
 React |
 Redux |
+React Native |
 NodeJS |
 Electron |
 ExpressJS |
 Javascript |
-Git |
-React Native  
+Git   
 AngularJS | 
 SASS |
 Canvas |
