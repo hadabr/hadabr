@@ -18,8 +18,8 @@ Git
 AngularJS | 
 SASS |
 Canvas |
-Bootstrap |
 Vue |
+Bootstrap |
 PostgreSQL |
 Mongodb |
 Elasticsearch  
