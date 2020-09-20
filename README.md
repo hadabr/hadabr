@@ -22,6 +22,7 @@ Bootstrap |
 Vue |
 PostgreSQL |
 Mongodb |
+Elasticsearch |
 RestAPI |
 GraphQl |
 Webpack |
