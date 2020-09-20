@@ -18,6 +18,7 @@ React Native |
 AngularJS | 
 SASS  
 Canvas |
+Bootstrap |
 Vue |
 PostgreSQL |
 Mongodb |
