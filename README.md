@@ -14,15 +14,15 @@ Electron |
 ExpressJS |
 Javascript |
 Git |
-React Native |
+React Native  
 AngularJS | 
-SASS  
+SASS |
 Canvas |
 Bootstrap |
 Vue |
 PostgreSQL |
 Mongodb |
-Elasticsearch |
+Elasticsearch  
 RestAPI |
 GraphQl |
 Webpack |
