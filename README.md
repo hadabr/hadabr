@@ -35,9 +35,12 @@ Figma
 
 &nbsp;   
 [![brandband](https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband-i.png
- "brandband")](https://brandband.io/)  
+ "brandband")](https://brandband.io/)   
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; v&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+avatar from[FLCL]
 
    [linkedin]: <https://www.linkedin.com/in/alex-dovghii/>
    [instagram]: <https://www.instagram.com/pockethabr>
    [behance]: <https://www.behance.net/alexdovghi6c9c>
    [releases]: <https://github.com/hadabr/releases>
+   [FLCL]:<https://en.wikipedia.org/wiki/FLCL>
