@@ -1,25 +1,23 @@
 **Hi, I'm Alex and I love simply things.**  
 
-Frontend/full-stack web developer and UI/UX designer.  
+Fullstack JS developer and UI/UX designer.  
 Recent projects/releases: [**[** **releases** **]**][releases].  
 
 We could meet on [Linkedin] or [Instagram].  
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/development.svg"/>  
 
-React |
+React /
 Redux |
 React Native |
 NodeJS |
 Electron |
 ExpressJS |
-Javascript |
-Git   
 Vue |
-Bootstrap |
+Git   
 PostgreSQL |
 Mongodb |
-Elasticsearch  
+Elasticsearch |
 RestAPI |
 GraphQl |
 Webpack |
@@ -30,7 +28,8 @@ NGINX
 Adobe XD |
 Adobe Photoshop |
 Figma |
-D3js | 
+Bootstrap |
+D3JS | 
 SASS 
 
 &nbsp;   
