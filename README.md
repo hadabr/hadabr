@@ -15,8 +15,6 @@ Electron |
 ExpressJS |
 Javascript |
 Git   
-D3js | 
-SASS |
 Vue |
 Bootstrap |
 PostgreSQL |
@@ -31,7 +29,9 @@ NGINX
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui.svg"/>  
 Adobe XD |
 Adobe Photoshop |
-Figma  
+Figma |
+D3js | 
+SASS 
 
 &nbsp;   
 [![brandband](https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband-i.png
