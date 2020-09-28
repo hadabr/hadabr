@@ -15,7 +15,7 @@ Electron |
 ExpressJS |
 Javascript |
 Git   
-AngularJS | 
+D3js | 
 SASS |
 Vue |
 Bootstrap |
