@@ -1,7 +1,6 @@
 **Hi, I'm Alex and I love simply things.**  
 
 Fullstack JS developer and UI/UX designer.  
-Recent projects/releases: [**[** **releases** **]**][releases].     
 We could meet on [Linkedin] or [Instagram].  
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/development.svg"/>  
@@ -37,7 +36,7 @@ SASS
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 avatar // [FLCL]  
 
-[**[** js-utils **]**][utils-list] 
+[**[** **releases** **]**][releases] [**[** **js-utils** **]**][utils-list] 
 
    [linkedin]: <https://www.linkedin.com/in/alex-dovghii/>
    [instagram]: <https://www.instagram.com/pockethabr>
