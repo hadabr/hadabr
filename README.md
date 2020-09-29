@@ -37,7 +37,7 @@ SASS
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 avatar // [FLCL]  
 
-JS utilities/modules: [**[** **utils** **]**][utils-list].
+[**[** **utils** **]**][utils-list] // JS utilities/modules
 
    [linkedin]: <https://www.linkedin.com/in/alex-dovghii/>
    [instagram]: <https://www.instagram.com/pockethabr>
