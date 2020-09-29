@@ -11,6 +11,7 @@ React Native |
 NodeJS |
 ExpressJS |
 Vue |
+Typescript |
 Git   
 PostgreSQL |
 Mongodb |
