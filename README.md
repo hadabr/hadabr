@@ -26,7 +26,7 @@ Adobe Photoshop |
 Figma |
 Bootstrap |
 D3JS | 
-SASS  
+SASS   
 &nbsp;    
 My website  
   
