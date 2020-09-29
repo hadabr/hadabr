@@ -2,7 +2,7 @@
 
 Fullstack JS developer and UI/UX designer.  
 Recent projects/releases: [**[** **releases** **]**][releases].  
-
+JS utilities/modules: [**[** **utils** **]**][utils-list].  
 We could meet on [Linkedin] or [Instagram].  
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/development.svg"/>  
@@ -40,6 +40,6 @@ avatar // [FLCL]
 
    [linkedin]: <https://www.linkedin.com/in/alex-dovghii/>
    [instagram]: <https://www.instagram.com/pockethabr>
-   [behance]: <https://www.behance.net/alexdovghi6c9c>
+   [utils-list]: <https://github.com/hadabr/utils-list>
    [releases]: <https://github.com/hadabr/releases>
    [FLCL]:<https://en.wikipedia.org/wiki/FLCL>
