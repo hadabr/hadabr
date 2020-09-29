@@ -14,7 +14,6 @@ Vue |
 Git   
 PostgreSQL |
 Mongodb |
-Elasticsearch |
 RestAPI |
 GraphQl |
 Webpack |
