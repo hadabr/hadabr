@@ -9,7 +9,6 @@ React /
 Redux |
 React Native |
 NodeJS |
-Electron |
 ExpressJS |
 Vue |
 Git   
