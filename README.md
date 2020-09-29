@@ -3,6 +3,7 @@
 Fullstack JS developer and UI/UX designer.  
 Recent projects/releases: [**[** **releases** **]**][releases].  
 JS utilities/modules: [**[** **utils** **]**][utils-list].  
+
 We could meet on [Linkedin] or [Instagram].  
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/development.svg"/>  
