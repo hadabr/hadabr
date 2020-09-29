@@ -37,7 +37,7 @@ SASS
 avatar // [FLCL]  
 
 [**[** **releases/projects** **]**][releases]  
-[**[** js-utils **]**][utils-list] 
+[[ js-utils ]][utils-list] 
 
    [linkedin]: <https://www.linkedin.com/in/alex-dovghii/>
    [instagram]: <https://www.instagram.com/pockethabr>
