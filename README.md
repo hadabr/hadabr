@@ -1,7 +1,7 @@
 **Hi, I'm Alex and I love simply things.**  
 
 Fullstack JS developer and UI/UX designer.  
-Recent projects/releases: [**[** **releases** **]**][releases]. JS utilities/modules: [**[** **utils** **]**][utils-list].    
+Recent projects/releases: [**[** **releases** **]**][releases].     
 We could meet on [Linkedin] or [Instagram].  
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/development.svg"/>  
@@ -35,7 +35,8 @@ SASS
 [![brandband](https://raw.githubusercontent.com/hadabr/hadabr/master/assets/brandband-i.png
  "brandband")](https://brandband.io/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-avatar // [FLCL]
+avatar // [FLCL]  
+<sup>JS utilities/modules: [**[** **utils** **]**][utils-list].</sup> 
 
    [linkedin]: <https://www.linkedin.com/in/alex-dovghii/>
    [instagram]: <https://www.instagram.com/pockethabr>
