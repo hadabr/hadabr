@@ -18,8 +18,7 @@ Elasticsearch |
 RestAPI |
 GraphQl |
 Webpack |
-Gulp |
-NGINX    
+Gulp 
   
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui.svg"/>  
 Adobe XD |
