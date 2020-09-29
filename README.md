@@ -1,7 +1,7 @@
 **Hi, I'm Alex and I love simply things.**  
 
 Fullstack JS developer and UI/UX designer.  
-We could meet on [**Linkedin**][Linkedin] or [**Instagram**][Instagram].  
+We could meet on [Linkedin][Linkedin] or [Instagram][Instagram].  
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/development.svg"/>  
 
