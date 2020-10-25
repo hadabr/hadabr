@@ -26,7 +26,9 @@ Adobe Photoshop |
 Figma |
 Bootstrap |
 D3JS | 
-SASS   
+SASS | 
+Storybook | 
+Material UI
 
 &nbsp;    
 
