@@ -7,28 +7,14 @@ We could meet on [Linkedin][Linkedin] or [Instagram][Instagram].
 
 React /
 Redux |
-React Native |
 NodeJS |
-ExpressJS |
-Vue |
-Typescript |
-Git   
-PostgreSQL |
+Typescript |   
+SQL /
 Mongodb |
-RestAPI |
-GraphQl |
-Webpack |
-Gulp 
   
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui.svg"/>  
-Adobe XD |
 Adobe Photoshop |
 Figma |
-Bootstrap |
-D3JS | 
-SASS | 
-Storybook | 
-Material UI
 
 &nbsp;    
 
