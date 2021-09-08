@@ -8,13 +8,13 @@ We could meet on [Linkedin][Linkedin] or [Instagram][Instagram].
 React /
 Redux |
 NodeJS |
-Typescript |   
+Typescript |
 SQL /
-Mongodb |
+Mongodb
   
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui.svg"/>  
 Adobe Photoshop |
-Figma |
+Figma
 
 &nbsp;    
 
