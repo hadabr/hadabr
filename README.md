@@ -1,6 +1,6 @@
 **Hi, I'm Alex and I love simply things.**  
 
-Fullstack JS developer and UI/UX designer.  
+Fullstack TS developer and UI/UX design as a hobby.  
 We could meet on [Linkedin][Linkedin] or [Instagram][Instagram].  
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/development.svg"/>  
