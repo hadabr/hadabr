@@ -1,4 +1,4 @@
-**Hi, I'm Alex and I love simply things.**  
+Hi, I'm Alex and I love simply things.  
 
 Fullstack TS developer and UI/UX design as a hobby.  
 We could meet on [Linkedin][Linkedin] or [Instagram][Instagram].  
