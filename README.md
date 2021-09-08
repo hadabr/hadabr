@@ -5,17 +5,6 @@ We could meet on [Linkedin][Linkedin] or [Instagram][Instagram].
 
 <img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/development.svg"/>  
 
-React /
-Redux |
-NodeJS |
-Typescript |
-SQL /
-Mongodb
-  
-<img src = "https://raw.githubusercontent.com/hadabr/hadabr/master/assets/ui.svg"/>  
-Adobe Photoshop |
-Figma
-
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 avatar // [FLCL]  
